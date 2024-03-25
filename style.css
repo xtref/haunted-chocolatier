@@ -2,3 +2,13 @@
   background-color: #000000;
   color: #edebe8;
 }
+
+nav { text-align: center }
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
