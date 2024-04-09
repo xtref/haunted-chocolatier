@@ -1,6 +1,12 @@
 * {
   background-color: #000000;
   color: #edebe8;
+  font-family: stardewFont;
+}
+
+@font-face {
+  font-family: stardewFont;
+  src: url(stardew.otf);
 }
 
 nav {
