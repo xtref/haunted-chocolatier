@@ -1,12 +1,13 @@
+@font-face {
+  font-family: stardewFont;
+  src: url("/haunted-chocolatier/stardew.otf") format("opentype"),
+       url("/haunted-chocolatier/stardew.ttf") format("truetype");
+}
+
 * {
   background-color: #000000;
   color: #edebe8;
   font-family: stardewFont;
-}
-
-@font-face {
-  font-family: stardewFont;
-  src: url(/haunted-chocolatier/stardew.otf);
 }
 
 nav {
